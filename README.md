@@ -21,7 +21,7 @@ This repository is intended for researchers and practitioners in **Information S
 
 ## Key Components
 
-### Reports (R1–R21)
+### Reports (R1–R22)
 
 Each folder corresponds to a participant or group report and includes:
 
